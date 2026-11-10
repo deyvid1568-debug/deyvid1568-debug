@@ -29,15 +29,6 @@ Minha bagagem industrial me deu uma perspectiva prática e analítica sobre flux
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deyvid1568-debug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvid1568-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
-</div>
-
----
-
 ### 📫 Conecte-se comigo
 
 - **LinkedIn:** [Deyvid Souza](https://www.linkedin.com/in/deyvid-souza-2174a798/)
